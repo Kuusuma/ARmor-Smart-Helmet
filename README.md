@@ -1,4 +1,3 @@
-# ARmor-Smart-Helmet
 # ARmor – Ride with Augmented Safety Helmet 🛡️
 
 **ARmor** is a smart helmet system built around the ESP32 microcontroller and an Android application to improve rider safety. It integrates real-time alerts, GPS tracking, SOS triggers, and voice notifications to respond instantly to critical situations.
