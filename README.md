@@ -72,7 +72,7 @@ ARmor (“Augmented Rider-Monitoring system”) is a smart helmet safety system 
 
 ### 1. Clone the Repo  
 bash
-git clone https://github.com/Darshan-Rajanna/ARmor
+git clone https://github.com/Kuusuma/ARmor-Smart-Helmet
 cd ARmor
 
 
